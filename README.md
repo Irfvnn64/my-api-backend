@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5731610.png" width="414" height="98" alt="Irfan Nabil" /></a>
-<br /></a>
+  <a href="https://github.com/Irfvnn64/my-api-backend" target="_blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
 # My API Backend
@@ -17,30 +16,3 @@ This is my personal backend API project, using the [Nest](https://github.com/nes
 
 ```bash
 $ npm install
-
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-
-## Stay in touch
-
-- Author - [Irfan](https://github.com/Irfvnn64)  <-- Change this to your name and GitHub link!
-- My GitHub - [https://github.com/Irfvnn64](https://github.com/Irfvnn64) <-- This is optional, but good to include
-
-## License
-
-Nest is [MIT licensed](LICENSE).
