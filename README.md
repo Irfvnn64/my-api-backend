@@ -5,12 +5,12 @@
 # My API Backend
 
 <p align="center">
-  A personal backend API project built with NestJS for learning and development.
+  A personal backend API project for learning and development.
 </p>
 
 ## Description
 
-This is my personal backend API project, using the [Nest](https://github.com/nestjs/nest) framework (TypeScript). It was originally a starter repository/fake API project. I'm using it to learn and build out my own backend functionalities.
+This is my personal backend API project. It was originally a starter repository/fake API project. I'm using it to learn and build out my own backend functionalities.
 
 ## Installation
 
